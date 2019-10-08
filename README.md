@@ -7,6 +7,7 @@
 WPF, C#.
 
 ## Пример дизайна приложения
+![test player](https://github.com/MarketPlayer/HR_csharp_desktop/blob/master/mm_test_video_player.png "Test player")
 
 ## Основные требования к плееру
 ### Требования к расписанию
