@@ -4,7 +4,7 @@
 Реализовать приложение плеер для проигрывания видео файлов по расписанию.
 
 ## Технологии
-C#
+C# net core
 
 ## Пример дизайна приложения
 ![test player](https://github.com/MarketPlayer/HR_csharp_desktop/blob/master/mm_test_video_player.png "Test player")
